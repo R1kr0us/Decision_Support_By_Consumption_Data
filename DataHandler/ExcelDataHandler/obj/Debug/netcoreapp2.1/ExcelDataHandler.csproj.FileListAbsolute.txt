@@ -1,0 +1,11 @@
+D:\Programs\Univer\DataHandler\ExcelDataHandler\obj\Debug\netcoreapp2.1\ExcelDataHandler.csprojAssemblyReference.cache
+D:\Programs\Univer\DataHandler\ExcelDataHandler\obj\Debug\netcoreapp2.1\ExcelDataHandler.csproj.CoreCompileInputs.cache
+D:\Programs\Univer\DataHandler\ExcelDataHandler\obj\Debug\netcoreapp2.1\ExcelDataHandler.AssemblyInfoInputs.cache
+D:\Programs\Univer\DataHandler\ExcelDataHandler\obj\Debug\netcoreapp2.1\ExcelDataHandler.AssemblyInfo.cs
+D:\Programs\Univer\DataHandler\ExcelDataHandler\bin\Debug\netcoreapp2.1\ExcelDataHandler.deps.json
+D:\Programs\Univer\DataHandler\ExcelDataHandler\bin\Debug\netcoreapp2.1\ExcelDataHandler.runtimeconfig.json
+D:\Programs\Univer\DataHandler\ExcelDataHandler\bin\Debug\netcoreapp2.1\ExcelDataHandler.runtimeconfig.dev.json
+D:\Programs\Univer\DataHandler\ExcelDataHandler\bin\Debug\netcoreapp2.1\ExcelDataHandler.dll
+D:\Programs\Univer\DataHandler\ExcelDataHandler\bin\Debug\netcoreapp2.1\ExcelDataHandler.pdb
+D:\Programs\Univer\DataHandler\ExcelDataHandler\obj\Debug\netcoreapp2.1\ExcelDataHandler.dll
+D:\Programs\Univer\DataHandler\ExcelDataHandler\obj\Debug\netcoreapp2.1\ExcelDataHandler.pdb
